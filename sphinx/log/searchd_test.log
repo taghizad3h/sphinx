@@ -1,0 +1,205 @@
+[Sun Nov 15 11:24:37.622 2020] [20159] watchdog: main process 20160 forked ok
+[Sun Nov 15 11:24:37.622 2020] [20160] listening on all interfaces, port=9313
+[Sun Nov 15 11:24:37.622 2020] [20160] listening on all interfaces, port=9307
+[Sun Nov 15 11:24:37.651 2020] [20160] FATAL: failed to open '/home/sphinx/sphinx/data_test/binlog.lock': 2 'No such file or directory'
+[Sun Nov 15 11:24:37.652 2020] [20159] watchdog: main process 20160 exited cleanly (exit code 1), shutting down
+[Sun Nov 15 11:24:57.987 2020] [20572] watchdog: main process 20573 forked ok
+[Sun Nov 15 11:24:57.987 2020] [20573] listening on all interfaces, port=9313
+[Sun Nov 15 11:24:57.988 2020] [20573] listening on all interfaces, port=9307
+[Sun Nov 15 11:24:57.990 2020] [20573] accepting connections
+[Sun Nov 15 11:24:57.990 2020] [20583] prereading 1 indexes
+[Sun Nov 15 11:24:57.991 2020] [20583] prereaded 1 indexes in 0.000 sec
+[Sun Nov 15 11:34:35.852 2020] [20573] caught SIGTERM, shutting down
+[Sun Nov 15 11:34:35.908 2020] [20573] shutdown complete
+[Sun Nov 15 11:34:35.909 2020] [20572] watchdog: main process 20573 exited cleanly (exit code 0), shutting down
+[Sun Nov 15 11:34:39.451 2020] [32450] watchdog: main process 32451 forked ok
+[Sun Nov 15 11:34:39.452 2020] [32451] listening on all interfaces, port=9313
+[Sun Nov 15 11:34:39.452 2020] [32451] listening on all interfaces, port=9307
+[Sun Nov 15 11:34:39.455 2020] [32451] accepting connections
+[Sun Nov 15 11:34:39.455 2020] [32460] prereading 1 indexes
+[Sun Nov 15 11:34:39.455 2020] [32460] prereaded 1 indexes in 0.000 sec
+[Sun Nov 15 11:36:02.794 2020] [32451] caught SIGTERM, shutting down
+[Sun Nov 15 11:36:02.886 2020] [32451] shutdown complete
+[Sun Nov 15 11:36:02.887 2020] [32450] watchdog: main process 32451 exited cleanly (exit code 0), shutting down
+[Sun Nov 15 11:36:08.219 2020] [34312] watchdog: main process 34313 forked ok
+[Sun Nov 15 11:36:08.219 2020] [34313] listening on all interfaces, port=9313
+[Sun Nov 15 11:36:08.220 2020] [34313] listening on all interfaces, port=9307
+[Sun Nov 15 11:36:08.222 2020] [34313] accepting connections
+[Sun Nov 15 11:36:08.222 2020] [34322] prereading 1 indexes
+[Sun Nov 15 11:36:08.223 2020] [34322] prereaded 1 indexes in 0.000 sec
+[Sun Nov 15 11:53:04.062 2020] [34313] caught SIGTERM, shutting down
+[Sun Nov 15 11:53:04.155 2020] [34313] shutdown complete
+[Sun Nov 15 11:53:04.156 2020] [34312] watchdog: main process 34313 exited cleanly (exit code 0), shutting down
+[Sun Nov 15 11:54:13.919 2020] [55809] watchdog: main process 55810 forked ok
+[Sun Nov 15 11:54:13.920 2020] [55810] listening on all interfaces, port=9313
+[Sun Nov 15 11:54:13.920 2020] [55810] listening on all interfaces, port=9307
+[Sun Nov 15 11:54:13.922 2020] [55810] accepting connections
+[Sun Nov 15 11:54:13.922 2020] [55819] prereading 1 indexes
+[Sun Nov 15 11:54:13.922 2020] [55819] prereaded 1 indexes in 0.000 sec
+[Sun Nov 15 21:54:17.170 2020] [55814] rt: index test: ramchunk saved ok (mode=periodic, ram=0.0 Mb, dt=36004 sec, took=0.0 sec)
+[Thu Nov 19 17:11:34.870 2020] [55810] caught SIGTERM, shutting down
+[Thu Nov 19 17:11:34.923 2020] [55810] rt: index test: ramchunk saved in 0.005 sec
+[Thu Nov 19 17:11:34.977 2020] [55810] shutdown complete
+[Thu Nov 19 17:11:34.978 2020] [55809] watchdog: main process 55810 exited cleanly (exit code 0), shutting down
+[Thu Nov 19 17:12:26.590 2020] [15455] watchdog: main process 15456 forked ok
+[Thu Nov 19 17:12:26.590 2020] [15456] listening on all interfaces, port=9313
+[Thu Nov 19 17:12:26.590 2020] [15456] listening on all interfaces, port=9307
+[Thu Nov 19 17:12:26.593 2020] [15456] accepting connections
+[Thu Nov 19 17:12:26.593 2020] [15466] prereading 2 indexes
+[Thu Nov 19 17:12:26.593 2020] [15466] prereaded 2 indexes in 0.000 sec
+[Thu Nov 19 17:14:28.488 2020] [15456] caught SIGTERM, shutting down
+[Thu Nov 19 17:14:28.572 2020] [15456] shutdown complete
+[Thu Nov 19 17:14:28.573 2020] [15455] watchdog: main process 15456 exited cleanly (exit code 0), shutting down
+[Thu Nov 19 17:14:33.172 2020] [18034] watchdog: main process 18035 forked ok
+[Thu Nov 19 17:14:33.172 2020] [18035] listening on all interfaces, port=9313
+[Thu Nov 19 17:14:33.172 2020] [18035] listening on all interfaces, port=9307
+[Thu Nov 19 17:14:33.176 2020] [18035] accepting connections
+[Thu Nov 19 17:14:33.176 2020] [18045] prereading 2 indexes
+[Thu Nov 19 17:14:33.176 2020] [18045] prereaded 2 indexes in 0.000 sec
+[Thu Nov 19 17:15:18.564 2020] [18035] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu Nov 19 17:15:18.604 2020] [18038] rotating index 'test_synonyms': started
+[Thu Nov 19 17:15:18.607 2020] [18038] rotating index 'test_synonyms': success
+[Thu Nov 19 17:15:18.607 2020] [18038] rotating index: all indexes done
+[Thu Nov 19 17:27:05.866 2020] [18035] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu Nov 19 17:27:05.913 2020] [18038] rotating index 'test_synonyms': started
+[Thu Nov 19 17:27:05.916 2020] [18038] rotating index 'test_synonyms': success
+[Thu Nov 19 17:27:05.916 2020] [18038] rotating index: all indexes done
+[Thu Nov 19 17:27:35.091 2020] [18035] caught SIGTERM, shutting down
+[Thu Nov 19 17:27:35.199 2020] [18035] shutdown complete
+[Thu Nov 19 17:27:35.200 2020] [18034] watchdog: main process 18035 exited cleanly (exit code 0), shutting down
+[Thu Nov 19 17:27:41.453 2020] [34144] watchdog: main process 34145 forked ok
+[Thu Nov 19 17:27:41.453 2020] [34145] listening on all interfaces, port=9313
+[Thu Nov 19 17:27:41.453 2020] [34145] listening on all interfaces, port=9307
+[Thu Nov 19 17:27:41.456 2020] [34145] accepting connections
+[Thu Nov 19 17:27:41.456 2020] [34155] prereading 2 indexes
+[Thu Nov 19 17:27:41.456 2020] [34155] prereaded 2 indexes in 0.000 sec
+[Thu Nov 19 17:29:44.742 2020] [34145] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu Nov 19 17:29:44.777 2020] [34148] rotating index 'test_synonyms': started
+[Thu Nov 19 17:29:44.780 2020] [34148] rotating index 'test_synonyms': success
+[Thu Nov 19 17:29:44.780 2020] [34148] rotating index: all indexes done
+[Thu Nov 19 17:30:20.072 2020] [34145] caught SIGTERM, shutting down
+[Thu Nov 19 17:30:20.193 2020] [34145] shutdown complete
+[Thu Nov 19 17:30:20.194 2020] [34144] watchdog: main process 34145 exited cleanly (exit code 0), shutting down
+[Thu Nov 19 17:30:22.354 2020] [37383] watchdog: main process 37384 forked ok
+[Thu Nov 19 17:30:22.354 2020] [37384] listening on all interfaces, port=9313
+[Thu Nov 19 17:30:22.355 2020] [37384] listening on all interfaces, port=9307
+[Thu Nov 19 17:30:22.358 2020] [37384] accepting connections
+[Thu Nov 19 17:30:22.358 2020] [37394] prereading 2 indexes
+[Thu Nov 19 17:30:22.358 2020] [37394] prereaded 2 indexes in 0.000 sec
+[Thu Nov 19 17:33:24.203 2020] [37384] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu Nov 19 17:33:24.225 2020] [37387] rotating index 'test_synonyms': started
+[Thu Nov 19 17:33:24.227 2020] [37387] rotating index 'test_synonyms': success
+[Thu Nov 19 17:33:24.227 2020] [37387] rotating index: all indexes done
+[Thu Nov 19 17:33:43.832 2020] [37384] caught SIGTERM, shutting down
+[Thu Nov 19 17:33:43.952 2020] [37384] shutdown complete
+[Thu Nov 19 17:33:43.953 2020] [37383] watchdog: main process 37384 exited cleanly (exit code 0), shutting down
+[Thu Nov 19 17:33:46.255 2020] [41484] watchdog: main process 41485 forked ok
+[Thu Nov 19 17:33:46.255 2020] [41485] listening on all interfaces, port=9313
+[Thu Nov 19 17:33:46.256 2020] [41485] listening on all interfaces, port=9307
+[Thu Nov 19 17:33:46.259 2020] [41485] accepting connections
+[Thu Nov 19 17:33:46.259 2020] [41495] prereading 2 indexes
+[Thu Nov 19 17:33:46.259 2020] [41495] prereaded 2 indexes in 0.000 sec
+[Thu Nov 19 17:34:23.470 2020] [41485] caught SIGTERM, shutting down
+[Thu Nov 19 17:34:23.513 2020] [41485] shutdown complete
+[Thu Nov 19 17:34:23.514 2020] [41484] watchdog: main process 41485 exited cleanly (exit code 0), shutting down
+[Thu Nov 19 17:34:49.875 2020] [42799] watchdog: main process 42800 forked ok
+[Thu Nov 19 17:34:49.875 2020] [42800] listening on all interfaces, port=9313
+[Thu Nov 19 17:34:49.876 2020] [42800] listening on all interfaces, port=9307
+[Thu Nov 19 17:34:49.878 2020] [42800] rotating index 'test_synonyms': success
+[Thu Nov 19 17:34:49.880 2020] [42800] accepting connections
+[Thu Nov 19 17:34:49.880 2020] [42810] prereading 2 indexes
+[Thu Nov 19 17:34:49.881 2020] [42810] prereaded 2 indexes in 0.000 sec
+[Thu Nov 19 17:36:30.840 2020] [42800] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Thu Nov 19 17:36:30.848 2020] [42803] rotating index 'test_synonyms': started
+[Thu Nov 19 17:36:30.851 2020] [42803] rotating index 'test_synonyms': success
+[Thu Nov 19 17:36:30.851 2020] [42803] rotating index: all indexes done
+[Thu Nov 19 17:36:35.534 2020] [42800] caught SIGTERM, shutting down
+[Thu Nov 19 17:36:35.642 2020] [42800] shutdown complete
+[Thu Nov 19 17:36:35.643 2020] [42799] watchdog: main process 42800 exited cleanly (exit code 0), shutting down
+[Thu Nov 19 17:36:39.796 2020] [45062] watchdog: main process 45063 forked ok
+[Thu Nov 19 17:36:39.796 2020] [45063] listening on all interfaces, port=9313
+[Thu Nov 19 17:36:39.796 2020] [45063] listening on all interfaces, port=9307
+[Thu Nov 19 17:36:39.800 2020] [45063] accepting connections
+[Thu Nov 19 17:36:39.800 2020] [45073] prereading 2 indexes
+[Thu Nov 19 17:36:39.800 2020] [45073] prereaded 2 indexes in 0.000 sec
+[Thu Nov 19 17:38:08.414 2020] [45063] caught SIGTERM, shutting down
+[Thu Nov 19 17:38:08.529 2020] [45063] shutdown complete
+[Thu Nov 19 17:38:08.530 2020] [45062] watchdog: main process 45063 exited cleanly (exit code 0), shutting down
+[Thu Nov 19 17:39:01.160 2020] [48085] watchdog: main process 48087 forked ok
+[Thu Nov 19 17:39:01.160 2020] [48087] listening on all interfaces, port=9313
+[Thu Nov 19 17:39:01.160 2020] [48087] listening on all interfaces, port=9307
+[Thu Nov 19 17:39:01.163 2020] [48087] rotating index 'test_synonyms': success
+[Thu Nov 19 17:39:01.165 2020] [48087] accepting connections
+[Thu Nov 19 17:39:01.165 2020] [48105] prereading 2 indexes
+[Thu Nov 19 17:39:01.166 2020] [48105] prereaded 2 indexes in 0.000 sec
+[Sat Nov 21 17:10:13.891 2020] [48087] caught SIGTERM, shutting down
+[Sat Nov 21 17:10:13.945 2020] [48087] shutdown complete
+[Sat Nov 21 17:10:13.946 2020] [48085] watchdog: main process 48087 exited cleanly (exit code 0), shutting down
+[Sat Nov 21 17:12:17.406 2020] [40749] watchdog: main process 40750 forked ok
+[Sat Nov 21 17:12:17.406 2020] [40750] listening on all interfaces, port=9313
+[Sat Nov 21 17:12:17.406 2020] [40750] listening on all interfaces, port=9307
+[Sat Nov 21 17:12:17.407 2020] [40751] WARNING: index 'test_synonyms': prealloc: failed to open /home/sphinx/sphinx/indexes/test_synonyms.sph: No such file or directory; NOT SERVING
+[Sat Nov 21 17:12:17.408 2020] [40750] FATAL: failed to open '/home/sphinx/sphinx/data_test/binlog.lock': 2 'No such file or directory'
+[Sat Nov 21 17:12:17.408 2020] [40749] watchdog: main process 40750 exited cleanly (exit code 1), shutting down
+[Sat Nov 21 17:12:38.714 2020] [41316] watchdog: main process 41317 forked ok
+[Sat Nov 21 17:12:38.715 2020] [41317] listening on all interfaces, port=9313
+[Sat Nov 21 17:12:38.715 2020] [41317] listening on all interfaces, port=9307
+[Sat Nov 21 17:12:38.716 2020] [41318] WARNING: index 'test_synonyms': prealloc: failed to open /home/sphinx/sphinx/indexes/test_synonyms.sph: No such file or directory; NOT SERVING
+[Sat Nov 21 17:12:38.718 2020] [41317] accepting connections
+[Sat Nov 21 17:12:38.718 2020] [41327] prereading 1 indexes
+[Sat Nov 21 17:12:38.718 2020] [41327] prereaded 1 indexes in 0.000 sec
+[Sat Nov 21 17:13:15.069 2020] [42110] watchdog: main process 42111 forked ok
+[Sat Nov 21 17:13:15.069 2020] [42111] FATAL: failed to lock pid file '/home/sphinx/sphinx/searchd_test.pid': Resource temporarily unavailable (searchd already running?)
+[Sat Nov 21 17:13:15.069 2020] [42111] shutdown complete
+[Sat Nov 21 17:13:15.070 2020] [42110] watchdog: main process 42111 exited cleanly (exit code 1), shutting down
+[Sat Nov 21 17:13:27.508 2020] [42341] watchdog: main process 42342 forked ok
+[Sat Nov 21 17:13:27.508 2020] [42342] listening on all interfaces, port=9313
+[Sat Nov 21 17:13:27.508 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:13:30.511 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:13:33.515 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:13:36.518 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:13:39.521 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:13:42.524 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:13:43.529 2020] [42621] watchdog: main process 42622 forked ok
+[Sat Nov 21 17:13:43.529 2020] [42622] FATAL: failed to lock pid file '/home/sphinx/sphinx/searchd_test.pid': Resource temporarily unavailable (searchd already running?)
+[Sat Nov 21 17:13:43.529 2020] [42622] shutdown complete
+[Sat Nov 21 17:13:43.530 2020] [42621] watchdog: main process 42622 exited cleanly (exit code 1), shutting down
+[Sat Nov 21 17:13:45.527 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:13:48.530 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:13:51.531 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:13:54.534 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:13:57.538 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:14:00.541 2020] [42342] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:14:03.544 2020] [42342] FATAL: bind() failed on 0.0.0.0: Address already in use
+[Sat Nov 21 17:14:03.544 2020] [42342] shutdown complete
+[Sat Nov 21 17:14:03.545 2020] [42341] watchdog: main process 42342 exited cleanly (exit code 1), shutting down
+[Sat Nov 21 17:14:31.953 2020] [43593] watchdog: main process 43594 forked ok
+[Sat Nov 21 17:14:31.953 2020] [43594] listening on all interfaces, port=9313
+[Sat Nov 21 17:14:31.953 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:14:34.956 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:14:37.959 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:14:40.963 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:14:43.966 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:14:46.969 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:14:49.972 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:14:52.973 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:14:55.977 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:14:58.979 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:15:01.981 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:15:04.984 2020] [43594] bind() failed on 0.0.0.0, retrying...
+[Sat Nov 21 17:15:07.985 2020] [43594] FATAL: bind() failed on 0.0.0.0: Address already in use
+[Sat Nov 21 17:15:07.986 2020] [43594] shutdown complete
+[Sat Nov 21 17:15:07.986 2020] [43593] watchdog: main process 43594 exited cleanly (exit code 1), shutting down
+[Sat Nov 21 17:15:55.964 2020] [45261] watchdog: main process 45262 forked ok
+[Sat Nov 21 17:15:55.965 2020] [45262] listening on all interfaces, port=9313
+[Sat Nov 21 17:15:55.965 2020] [45262] listening on all interfaces, port=9307
+[Sat Nov 21 17:15:55.968 2020] [45262] binlog: replaying log /home/sphinx/sphinx/data_test/binlog.001
+[Sat Nov 21 17:15:55.968 2020] [45262] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Sat Nov 21 17:15:55.968 2020] [45262] binlog: finished replaying /home/sphinx/sphinx/data_test/binlog.001; 0.0 MB in 0.000 sec
+[Sat Nov 21 17:15:55.968 2020] [45262] binlog: finished replaying total 1 in 0.000 sec
+[Sat Nov 21 17:15:55.969 2020] [45262] accepting connections
+[Sat Nov 21 17:15:55.969 2020] [45272] prereading 2 indexes
+[Sat Nov 21 17:15:55.969 2020] [45272] prereaded 2 indexes in 0.000 sec
+[Sat Nov 21 17:19:27.498 2020] [45262] caught SIGTERM, shutting down
+[Sat Nov 21 17:19:27.581 2020] [45262] shutdown complete
+[Sat Nov 21 17:19:27.582 2020] [45261] watchdog: main process 45262 exited cleanly (exit code 0), shutting down

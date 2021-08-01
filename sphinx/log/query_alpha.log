@@ -1,0 +1,108 @@
+[Thu Nov 12 13:38:43.365 2020] 0.179 sec 0.179 sec [scan/0/ext 1 (0,20)] [najaf_simple]
+[Thu Nov 12 13:39:23.820 2020] 0.176 sec 0.176 sec [scan/0/ext 1 (0,20)] [najaf_stemmer]
+[Thu Nov 12 14:51:48.274 2020] 0.343 sec 0.343 sec [ext/0/ext 146222 (0,10)] [najaf_simple] سلام
+[Thu Nov 12 14:52:33.378 2020] 0.051 sec 0.051 sec [ext/0/ext 146222 (0,10)] [najaf_simple] سلام
+[Thu Nov 12 14:52:48.722 2020] 0.059 sec 0.059 sec [ext/0/ext 146222 (0,10)] [najaf_simple] سلام
+[Thu Nov 12 14:52:56.850 2020] 0.447 sec 0.447 sec [ext/0/ext 6714 (1,10)] [najaf_simple] سلام بر شما
+[Thu Nov 12 14:53:10.360 2020] 0.773 sec 0.773 sec [ext/0/ext 2539 (1,10)] [najaf_simple] سلام بر حسین علیه السلام
+[Thu Nov 12 14:53:24.617 2020] 0.741 sec 0.741 sec [ext/0/ext 169 (1,10)] [najaf_simple] بر همه‌ی شماها
+[Thu Nov 12 14:56:39.481 2020] 0.000 sec 0.000 sec [ext/0/ext 0 (0,10)] [najaf_stemmer] Ø³ÙØ§Ù
+[Thu Nov 12 14:57:40.079 2020] 0.000 sec 0.000 sec [ext/0/ext 0 (0,10)] [najaf_stemmer] Ø³ÙØ§Ù
+[Thu Nov 12 14:58:25.758 2020] 0.000 sec 0.000 sec [ext/0/ext 0 (0,10)] [najaf_stemmer] Ø³ÙØ§Ù
+[Thu Nov 12 14:58:57.598 2020] 0.000 sec 0.000 sec [ext/0/ext 0 (0,10)] [najaf_stemmer] salam
+[Thu Nov 12 14:59:30.371 2020] 0.000 sec 0.000 sec [ext/0/ext 0 (1,10)] [najaf_simple] salam
+[Thu Nov 12 14:59:33.576 2020] 0.084 sec 0.084 sec [ext/0/ext 146222 (1,10)] [najaf_simple] سلام
+[Thu Nov 12 14:59:36.802 2020] 0.000 sec 0.000 sec [ext/0/ext 0 (1,10)] [najaf_simple] ۱
+[Thu Nov 12 14:59:38.384 2020] 0.000 sec 0.000 sec [ext/0/ext 0 (1,10)] [najaf_simple] 1
+[Thu Nov 12 15:00:56.069 2020] 0.293 sec 0.293 sec [ext/0/ext 154190 (0,10)] [najaf_stemmer] سلام
+[Thu Nov 12 15:02:33.761 2020] 0.082 sec 0.082 sec [ext/0/ext 154190 (0,10)] [najaf_stemmer] سلام
+[Thu Nov 12 15:03:21.937 2020] 0.063 sec 0.063 sec [ext/0/ext 154190 (0,10)] [najaf_stemmer] سلام
+[Thu Nov 12 15:03:45.012 2020] 0.247 sec 0.247 sec [ext/0/ext 6895 (0,10)] [najaf_stemmer] سلام بر شما
+[Thu Nov 12 15:04:06.064 2020] 0.182 sec 0.182 sec [ext/0/ext 1149 (0,10)] [najaf_stemmer] پرندگان در آسمان
+[Thu Nov 12 15:07:06.681 2020] 0.031 sec 0.031 sec [ext/0/ext 1149 (0,10)] [najaf_stemmer] پرندگان در آسمان
+[Thu Nov 12 15:07:38.109 2020] 0.069 sec 0.069 sec [ext/0/ext 4 (0,10)] [najaf_stemmer] پرندگان غیر ماکول اللحم
+[Thu Nov 12 15:08:14.766 2020] 0.619 sec 0.619 sec [ext/0/ext 2544079 (0,10)] [najaf_stemmer] پرندگان | غیر | ماکول | اللحم
+[Thu Nov 12 15:08:20.846 2020] 0.576 sec 0.576 sec [ext/0/ext 2544079 (4,10)] [najaf_stemmer] پرندگان | غیر | ماکول | اللحم
+[Thu Nov 12 15:08:42.444 2020] 0.132 sec 0.132 sec [ext/0/ext 1 (0,10)] [najaf_stemmer]  اذا انقلب الی بول ماکول اللحم مستفاد من الدلیل
+[Thu Nov 12 15:08:54.868 2020] 0.203 sec 0.203 sec [ext/0/ext 1310 (0,10)] [najaf_stemmer] عقاید وهابیت
+[Thu Nov 12 15:09:14.044 2020] 0.120 sec 0.120 sec [ext/0/ext 1310 (4,10)] [najaf_stemmer] عقاید وهابیت
+[Thu Nov 12 15:09:22.384 2020] 0.061 sec 0.061 sec [ext/0/ext 1310 (2,10)] [najaf_stemmer] عقاید وهابیت
+[Thu Nov 12 15:09:34.456 2020] 0.412 sec 0.412 sec [ext/0/ext 83 (0,10)] [najaf_stemmer] اثبات معصومیت پیامبران
+[Thu Nov 12 15:09:52.751 2020] 0.115 sec 0.115 sec [ext/0/ext 83 (2,10)] [najaf_stemmer] اثبات معصومیت پیامبران
+[Thu Nov 12 15:10:30.350 2020] 0.493 sec 0.493 sec [ext/0/ext 2932 (0,10)] [najaf_stemmer] بر عهده‌ی ولی خدا
+[Thu Nov 12 15:10:55.689 2020] 0.203 sec 0.203 sec [ext/0/ext 2932 (3,10)] [najaf_stemmer] بر عهده‌ی ولی خدا
+[Thu Nov 12 15:11:22.404 2020] 0.344 sec 0.344 sec [ext/0/ext 139522 (0,10)] [najaf_stemmer] حکومت| اسلامی| متکامل
+[Thu Nov 12 15:11:33.457 2020] 0.212 sec 0.212 sec [ext/0/ext 139522 (4,10)] [najaf_stemmer] حکومت| اسلامی| متکامل
+[Thu Nov 12 15:11:36.031 2020] 0.103 sec 0.103 sec [ext/0/ext 139522 (5,10)] [najaf_stemmer] حکومت| اسلامی| متکامل
+[Thu Nov 12 15:11:38.062 2020] 0.113 sec 0.113 sec [ext/0/ext 139522 (6,10)] [najaf_stemmer] حکومت| اسلامی| متکامل
+[Sat Nov 14 18:40:04.290 2020] 0.032 sec 0.032 sec [ext/0/ext 1149 (0,10)] [najaf_stemmer] پرندگان در آسمان
+[Sat Nov 14 18:40:28.098 2020] 0.040 sec 0.040 sec [ext/0/ext 1149 (0,10)] [najaf_stemmer] (پرندگان) (در) (آسمان)
+[Sat Nov 14 18:40:37.717 2020] 0.610 sec 0.610 sec [ext/0/ext 1418984 (0,10)] [najaf_stemmer] (پرندگان)| (در)| (آسمان)
+[Sat Nov 14 18:40:52.575 2020] 0.449 sec 0.449 sec [ext/0/ext 1420354 (0,10)] [najaf_stemmer] (پرندگان||مرغان)| (در)| (آسمان)
+[Sat Nov 14 19:22:12.048 2020] 0.000 sec 0.000 sec [ext/0/ext 0 (0,10)] [najaf_stemmer] None
+[Sat Nov 14 19:22:22.297 2020] 0.403 sec 0.403 sec [ext/0/ext 591 (0,10)] [najaf_stemmer] ثواب قرائت قرآن
+[Sat Nov 14 19:22:33.375 2020] 0.194 sec 0.194 sec [ext/0/ext 835 (0,10)] [najaf_stemmer] ثواب قرائت ||‌ تلاوت قرآن
+[Sat Nov 14 19:22:53.878 2020] 0.120 sec 0.120 sec [ext/0/ext 296750 (0,10)] [najaf_stemmer] ثواب| قرائت ||‌ تلاوت | قرآن
+[Sat Nov 14 19:23:07.044 2020] 0.087 sec 0.087 sec [ext/0/ext 296750 (0,10)] [najaf_stemmer] ثواب| ( قرائت ||‌ تلاوت) | قرآن
+[Sat Nov 14 19:26:36.991 2020] 0.186 sec 0.186 sec [ext/0/ext 100150 (0,10)] [najaf_stemmer] ثواب| (قرائت قرآن|| تلاوت قرآن)
+[Sat Nov 14 19:28:07.663 2020] 0.091 sec 0.091 sec [ext/0/ext 100150 (0,10)] [najaf_stemmer] ثواب | (قرائت قرآن|| تلاوت قرآن) 
+[Sat Nov 14 19:28:41.914 2020] 0.250 sec 0.250 sec [ext/0/ext 243484 (0,10)] [najaf_stemmer] ثواب | (قرائت قرآن|| تلاوت قرآن) | (تلاوت |‌ قرآن) 
+[Sat Nov 14 19:29:51.027 2020] 0.295 sec 0.295 sec [ext/0/ext 243484 (0,10)] [najaf_stemmer] ثواب | تلاوت |‌ قرآن |  (قرائت قرآن|| تلاوت قرآن)
+[Sat Nov 14 19:30:20.026 2020] 0.335 sec 0.335 sec [ext/0/ext 243484 (0,10)] [najaf_stemmer] ثواب | تلاوت |‌ قرآن 
+[Sat Nov 14 19:30:41.683 2020] 0.165 sec 0.165 sec [ext/0/ext 243484 (0,10)] [najaf_stemmer] ثواب | تلاوت |‌ قرآن |  (قرائت قرآن|| تلاوت قرآن)
+[Sat Nov 14 19:30:44.001 2020] 0.165 sec 0.165 sec [ext/0/ext 243484 (0,10)] [najaf_stemmer] ثواب | تلاوت |‌ قرآن |  (قرائت قرآن|| تلاوت قرآن)
+[Sun Nov 15 00:11:25.444 2020] 0.164 sec 0.164 sec [ext/0/ext 243484 (0,10)] [najaf_stemmer] ثواب | تلاوت |‌ قرآن | (قرائت قرآن|| تلاوت قرآن)
+[Sun Nov 15 00:11:32.229 2020] 0.088 sec 0.088 sec [ext/0/ext 100150 (0,10)] [najaf_stemmer] ثواب | (قرائت قرآن|| تلاوت قرآن)
+[Sun Nov 15 00:11:44.704 2020] 0.087 sec 0.087 sec [ext/0/ext 100150 (0,10)] [najaf_stemmer] ثواب | (قرائت قرآن || تلاوت قرآن)
+[Sun Nov 15 00:12:03.473 2020] 0.366 sec 0.366 sec [ext/0/ext 591 (0,10)] [najaf_stemmer] ثواب (قرائت قرآن || تلاوت قرآن)
+[Sun Nov 15 00:12:30.636 2020] 2.350 sec 2.350 sec [ext/0/ext 909 (0,10)] [najaf_stemmer] حکم اول ماه رمضان
+[Sun Nov 15 00:13:40.235 2020] 0.081 sec 0.081 sec [ext/0/ext 909 (0,10)] [najaf_stemmer] حکم اول ماه رمضان
+[Sun Nov 15 00:13:41.841 2020] 0.082 sec 0.082 sec [ext/0/ext 909 (0,10)] [najaf_stemmer] حکم اول ماه رمضان
+[Sun Nov 15 00:13:52.480 2020] 0.179 sec 0.179 sec [ext/0/ext 6 (0,10)] [najaf_stemmer] حکم آهر ماه رمضان
+[Sun Nov 15 00:13:59.260 2020] 0.588 sec 0.588 sec [ext/0/ext 707 (0,10)] [najaf_stemmer] حکم آخر ماه رمضان
+[Sun Nov 15 10:51:28.974 2020] 0.066 sec 0.066 sec [ext/0/ext 97499 (0,10)] [najaf_stemmer] ثواب | (تلاوت قرآن)
+[Sun Nov 15 10:53:06.348 2020] 0.052 sec 0.052 sec [ext/0/ext 591 (0,10)] [najaf_stemmer] ثواب (قرائت قرآن || تلاوت قرآن)
+[Sun Nov 15 10:57:55.726 2020] 0.029 sec 0.029 sec [ext/0/ext 146222 (0,0)] [najaf_simple] سلام
+[Sun Nov 15 10:58:22.612 2020] 0.210 sec 0.210 sec [ext/0/ext 84622 (0,0)] [najaf_simple] ثواب | "قرائت قرآن"
+[Sun Nov 15 10:58:29.472 2020] 0.066 sec 0.066 sec [ext/0/ext 84622 (0,1)] [najaf_simple] ثواب | "قرائت قرآن"
+[Sun Nov 15 10:59:16.641 2020] 0.124 sec 0.124 sec [ext/0/ext 85857 (0,1)] [najaf_simple] ثواب | "قرائت قرآن"| "تلاوت قرآن"
+[Sun Nov 15 11:04:02.764 2020] 0.319 sec 0.319 sec [ext/0/ext 97499 (0,10)] [najaf_stemmer] ثواب | (تلاوت قرآن || قرائت قرآن)
+[Sun Nov 15 11:04:35.672 2020] 0.082 sec 0.082 sec [ext/0/ext 97499 (0,10)] [najaf_stemmer] ثواب | (تلاوت MAYBE  قرآن || قرائت MAYBE  قرآن)
+[Sun Nov 15 11:05:11.550 2020] 0.217 sec 0.217 sec [ext/0/ext 103742 (0,10)] [najaf_stemmer] ثواب | (تلاوت MAYBE  قرآن) | (قرائت MAYBE  قرآن)
+[Thu Nov 19 17:43:24.929 2020] 0.512 sec 0.512 sec [ext/0/ext 375759 (0,10)] [najaf_stemmer] شد
+[Thu Nov 19 17:43:37.809 2020] 0.627 sec 0.627 sec [ext/0/ext 475741 (0,10)] [najaf_stemmer] شدند
+[Thu Nov 19 17:44:42.116 2020] 0.405 sec 0.405 sec [ext/0/ext 4831 (0,10)] [najaf_stemmer] دادگاه
+[Thu Nov 19 17:44:58.900 2020] 0.130 sec 0.130 sec [ext/0/ext 4831 (4,10)] [najaf_stemmer] دادگاه
+[Thu Nov 19 17:45:06.091 2020] 0.091 sec 0.091 sec [ext/0/ext 4831 (5,10)] [najaf_stemmer] دادگاه
+[Thu Nov 19 17:45:09.579 2020] 0.120 sec 0.120 sec [ext/0/ext 4831 (7,10)] [najaf_stemmer] دادگاه
+[Thu Nov 19 17:45:12.335 2020] 0.085 sec 0.085 sec [ext/0/ext 4831 (9,10)] [najaf_stemmer] دادگاه
+[Thu Nov 19 17:45:15.406 2020] 0.066 sec 0.066 sec [ext/0/ext 4831 (11,10)] [najaf_stemmer] دادگاه
+[Thu Nov 19 17:45:18.850 2020] 0.093 sec 0.093 sec [ext/0/ext 4831 (13,10)] [najaf_stemmer] دادگاه
+[Thu Nov 19 17:45:45.434 2020] 0.221 sec 0.221 sec [ext/0/ext 7685 (0,10)] [najaf_stemmer] موافقت 
+[Thu Nov 19 17:45:54.699 2020] 0.043 sec 0.043 sec [ext/0/ext 7685 (1,10)] [najaf_stemmer] موافقت 
+[Thu Nov 19 17:46:06.578 2020] 0.050 sec 0.050 sec [ext/0/ext 7685 (3,10)] [najaf_stemmer] موافقت 
+[Thu Nov 19 17:46:19.674 2020] 0.240 sec 0.240 sec [ext/0/ext 26202 (0,10)] [najaf_stemmer] موافقت || توافق
+[Thu Nov 19 17:46:58.435 2020] 0.965 sec 0.965 sec [ext/0/ext 8135 (0,10)] [najaf_stemmer] عبدالله بن مسعود
+[Thu Nov 19 17:47:19.411 2020] 0.196 sec 0.196 sec [ext/0/ext 8135 (4,10)] [najaf_stemmer] عبدالله بن مسعود
+[Thu Nov 19 17:47:36.763 2020] 0.108 sec 0.108 sec [ext/0/ext 2282 (0,10)] [najaf_stemmer] "عبدالله بن مسعود"
+[Thu Nov 19 17:47:43.706 2020] 0.091 sec 0.091 sec [ext/0/ext 2282 (3,10)] [najaf_stemmer] "عبدالله بن مسعود"
+[Thu Nov 19 17:47:46.899 2020] 0.101 sec 0.101 sec [ext/0/ext 2282 (4,10)] [najaf_stemmer] "عبدالله بن مسعود"
+[Thu Nov 19 17:47:49.515 2020] 0.116 sec 0.116 sec [ext/0/ext 2282 (5,10)] [najaf_stemmer] "عبدالله بن مسعود"
+[Thu Nov 19 17:48:05.984 2020] 0.884 sec 0.884 sec [ext/0/ext 361918 (0,10)] [najaf_stemmer] کتاب‌ها
+[Thu Nov 19 17:48:27.670 2020] 0.371 sec 0.371 sec [ext/0/ext 7556 (0,10)] [najaf_stemmer] سنگ‌ها
+[Thu Nov 19 17:48:44.269 2020] 0.562 sec 0.562 sec [ext/0/ext 2010815 (0,10)] [najaf_stemmer] کتب
+[Thu Nov 19 17:49:40.834 2020] 0.419 sec 0.419 sec [ext/0/ext 143068 (0,10)] [najaf_stemmer] دخول 
+[Thu Nov 19 17:49:51.667 2020] 0.106 sec 0.106 sec [ext/0/ext 143068 (4,10)] [najaf_stemmer] دخول 
+[Thu Nov 19 17:50:15.675 2020] 0.286 sec 0.286 sec [ext/0/ext 201 (0,10)] [najaf_stemmer] بهادار 
+[Thu Nov 19 17:50:30.044 2020] 0.124 sec 0.124 sec [ext/0/ext 201 (4,10)] [najaf_stemmer] بهادار 
+[Thu Nov 19 17:50:45.749 2020] 0.218 sec 0.218 sec [ext/0/ext 6373 (0,10)] [najaf_stemmer] مشافهه 
+[Thu Nov 19 17:50:52.328 2020] 0.019 sec 0.019 sec [ext/0/ext 6373 (3,10)] [najaf_stemmer] مشافهه 
+[Thu Nov 19 17:50:55.332 2020] 0.047 sec 0.047 sec [ext/0/ext 6373 (5,10)] [najaf_stemmer] مشافهه 
+[Thu Nov 19 17:50:58.133 2020] 0.014 sec 0.014 sec [ext/0/ext 6373 (7,10)] [najaf_stemmer] مشافهه 
+[Thu Nov 19 17:51:00.105 2020] 0.133 sec 0.133 sec [ext/0/ext 6373 (636,10)] [najaf_stemmer] مشافهه 
+[Thu Nov 19 17:51:03.068 2020] 0.026 sec 0.026 sec [ext/0/ext 6373 (637,10)] [najaf_stemmer] مشافهه 
+[Thu Nov 19 17:51:26.200 2020] 0.176 sec 0.176 sec [ext/0/ext 2037 (0,10)] [najaf_stemmer] الحاح
+[Thu Nov 19 17:51:29.612 2020] 0.131 sec 0.131 sec [ext/0/ext 2037 (203,10)] [najaf_stemmer] الحاح
+[Thu Nov 19 17:51:32.341 2020] 0.033 sec 0.033 sec [ext/0/ext 2037 (202,10)] [najaf_stemmer] الحاح
+[Thu Nov 19 17:52:19.922 2020] 0.195 sec 0.195 sec [ext/0/ext 6895 (0,10)] [najaf_stemmer] سلام بر شما
+[Thu Nov 19 17:52:29.612 2020] 0.348 sec 0.348 sec [ext/0/ext 163136 (0,10)] [najaf_stemmer] اکبر
